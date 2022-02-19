@@ -19,5 +19,7 @@ To "download" the repo, use git clone <repo_link>. This downloads the repo to a 
    1. git add -A 
    2. git commit -m "(Some description of what you have done)" 
    3. git push 
+
+
 Github desktop simplifies this for you, but essentially these are the 3 steps that it is doing. 
 
