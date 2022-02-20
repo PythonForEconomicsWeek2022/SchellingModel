@@ -23,3 +23,23 @@ To "download" the repo, use git clone <repo_link>. This downloads the repo to a 
 
 Github desktop simplifies this for you, but essentially these are the 3 steps that it is doing. 
 
+### Requirements for project 
+1. Everyone should have a basic implementation of the Schelling Model 
+2. Extensions (subject to discussions) 
+
+### Milestones to hit 
+1. Finish basic implementation by Wednesday (ideally), if not Thursday 
+2. Friday - finish all presentation materials 
+
+### Meetings 
+- Sunday 
+- Monday (1 hour) 
+ - 7pm - 8pm 
+ - Coding + Questions 
+- Wednesday 
+ - Tying up loose ends on basic model 
+ - Discuss on what extensions we want + how to separate tasks 
+ - 10 am - 11 am 
+- Friday 
+ - Go through presentation materials 
+ - 10 am - 11am 
