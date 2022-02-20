@@ -34,8 +34,8 @@ Github desktop simplifies this for you, but essentially these are the 3 steps th
 ### Meetings 
 - Sunday 
 - Monday (1 hour) 
- - 7pm - 8pm 
- - Coding + Questions 
+  - 7pm - 8pm 
+  - Coding + Questions 
 - Wednesday 
  - Tying up loose ends on basic model 
  - Discuss on what extensions we want + how to separate tasks 
