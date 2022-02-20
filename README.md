@@ -32,14 +32,14 @@ Github desktop simplifies this for you, but essentially these are the 3 steps th
 2. Friday - finish all presentation materials 
 
 ### Meetings 
-- Sunday 
+- ~~Sunday~~ 
 - Monday (1 hour) 
   - 7pm - 8pm 
   - Coding + Questions 
 - Wednesday 
- - Tying up loose ends on basic model 
- - Discuss on what extensions we want + how to separate tasks 
- - 10 am - 11 am 
+  - Tying up loose ends on basic model 
+  - Discuss on what extensions we want + how to separate tasks 
+  - 10 am - 11 am 
 - Friday 
- - Go through presentation materials 
- - 10 am - 11am 
+  - Go through presentation materials 
+  - 10 am - 11am 
